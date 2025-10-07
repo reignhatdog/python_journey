@@ -1,6 +1,5 @@
 # start of journey, simple if else statement
 
-
 name = "reign"
 age = 19
 is_student = True
