@@ -4,7 +4,6 @@ name = "reign"
 age = 19
 is_student = True
 
-
 print("My name is " + name + ", I'm " + str(age) + " years old.")
 if is_student:
     print("im a student! ")
