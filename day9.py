@@ -1,4 +1,5 @@
 # Simple Student Record System
+
 students = []
 
 def add_student():
@@ -69,4 +70,5 @@ def main_menu():
 if __name__ == "__main__":
 
     main_menu()
+
 
