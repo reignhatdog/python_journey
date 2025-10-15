@@ -1,6 +1,5 @@
 # guess a number
 
-
 import random
 secretnumber = random.randint(1, 10)  
 
