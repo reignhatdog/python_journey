@@ -1,6 +1,5 @@
 # Student anlyzer
 
-
 name = input("Enter your name: ")
 grade1 = float(input("Enter your grade 1: "))
 grade2 = float(input("Enter your grade 2: "))
@@ -24,3 +23,4 @@ print("\nDatatype:")
 print("- name:", type(name))
 print("- grades:", type(grades))
 print("- average:", type(average))
+
